@@ -1,10 +1,7 @@
-# Panorama for Moodle
+# Integrating Panorama into Canvas Using LTI 1.3
 
-`local_panorama` - Panorama for Moodle Settings
+https://support.yuja.com/hc/en-us/articles/7955689760023-Integrating-Panorama-into-Canvas-Using-LTI-1-3
 
-# YuJa Panorama for Moodle Plugins
-The plugin [local_panorama](https://github.com/yujacorp/moodle-local_panorama), is the first plugin to be installed onto your Moodle LMS. The plugin is used to store the configuration(s) required for Panorama to function.
+# Uninstalling YuJa Panorama from Moodle 4.0
 
-The plugin [filter_panorama](https://github.com/yujacorp/moodle-filter_panorama), is the second plugin to be installed onto your Moodle LMS. The plugin is used to insert the Panorama front end into the webpage.
-
-The plugin [report_panorama](https://github.com/yujacorp/moodle-report_panorama), is the third plugin to be installed onto your Moodle LMS. The plugin is used to insert the LTI Reports into the webpage.
+https://support.yuja.com/hc/en-us/articles/17552670400151-Uninstalling-YuJa-Panorama-from-Moodle-4-0
